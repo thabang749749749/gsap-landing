@@ -31,8 +31,8 @@ const cocktailLists = [
     price: "$49",
   },
   {
-    name: "Rhino Pale Ale",
-    country: "CA",
+    name: "Leopard Ginger Ale",
+    country: "SA",
     detail: "750 ml",
     price: "$20",
   },
