@@ -47,7 +47,7 @@ const cocktailLists = [
 const mockTailLists = [
   {
     name: "Tropical Bloom",
-    country: "US",
+    country: "SA",
     detail: "Battle",
     price: "$10",
   },
@@ -59,15 +59,15 @@ const mockTailLists = [
   },
   {
     name: "Citrus Glow",
-    country: "CA",
+    country: "SA",
     detail: "750 ml",
-    price: "$20",
+    price: "$29",
   },
   {
     name: "Lavender Fizz",
     country: "IE",
     detail: "600 ml",
-    price: "$29",
+    price: "$20",
   },
 ];
 

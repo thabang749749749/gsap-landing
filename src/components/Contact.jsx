@@ -42,12 +42,12 @@ const Contact = () => {
 
       <div>
         <h3>Visit Our Bar</h3>
-        <p>666, Vilakazi str. Soweto, Gauteng, South Africa</p>
+        <p>999, Vilakazi str. Soweto, Gauteng, South Africa</p>
       </div>
 
       <div>
         <h3>Contact Us</h3>
-        <p>(+27) 016-664-321</p>
+        <p>(+27) 016-999-321</p>
         <p>hello@thbngXcocktail.com</p>
       </div>
 
